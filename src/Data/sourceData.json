@@ -1,0 +1,23 @@
+{
+  "sales": [
+    { "month": "January", "amount": 1200 },
+    { "month": "February", "amount": 1500 },
+    { "month": "March", "amount": 1800 },
+    { "month": "April", "amount": 2000 },
+    { "month": "May", "amount": 2200 }
+  ],
+  "revenue": [
+    { "month": "January", "amount": 500 },
+    { "month": "February", "amount": 600 },
+    { "month": "March", "amount": 700 },
+    { "month": "April", "amount": 800 },
+    { "month": "May", "amount": 900 }
+  ],
+  "userActivity": [
+    { "month": "January", "visitors": 100, "purchases": 10 },
+    { "month": "February", "visitors": 120, "purchases": 12 },
+    { "month": "March", "visitors": 130, "purchases": 13 },
+    { "month": "April", "visitors": 140, "purchases": 14 },
+    { "month": "May", "visitors": 150, "purchases": 15 }
+  ]
+}
